@@ -37,7 +37,7 @@ export const EXPERIENCES = [
   },
 ];
 
-export const PROJECTS = [
+export const PROJECTS = [ 
   {
     title: "Portfolio-website",
     image: port,
