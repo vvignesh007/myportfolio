@@ -40,7 +40,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [ 
   {
     title: "Portfolio-website",
-    image: port,
+    image: port, 
     source:"https://github.com/vvignesh007/myportfolio",
     description: "This is a dynamic portfolio website built using the React.js framework.It showcases my technical skills, educational background, and development journey.The site includes detailed sections for my internships, personal and academic projects.Interactive and responsive design ensures a smooth experience across all devices.Explore to learn more about my expertise, creativity, and passion for coding.",
     technologies: ["ReactJs", "CSS", "HTML", "Bootstrap","Javascript"],
